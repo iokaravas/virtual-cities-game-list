@@ -1,9 +1,10 @@
 Virtual Cities Game List
 ---
 
-This document lists all games featured in "Virtual Cities" book (1682686094) by Konstantinos Dimopoulos. Its main purpose is to provide information on how to legally obtain copies of the games in order to play them.
+This document lists all games featured in "Virtual Cities" book (ISBN: 1682686094) by Konstantinos Dimopoulos. Its main purpose is to provide information on how to legally obtain copies of the games in order to play them.
 
-####Please note:
+#### Please note:
+
 These links are being provided as a convenience and for informational purposes only; 
 they do not constitute an endorsement or are affiliated with the author of the book, authors or contributors of this document. 
 Aforementioned individuals bear no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.
